@@ -55,13 +55,11 @@
 - Step 6. Open VS Code.          
 
 
-
+![1](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/50dff81d-7031-4764-ae73-cf8b09530332)
 
 - Step 6:- Create a new file.
-  
-  ![1](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/50dff81d-7031-4764-ae73-cf8b09530332)
 
-
+- 
 ![30](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/578c03b6-b793-4d49-bf6d-34903a062d87)
 <br>
 
