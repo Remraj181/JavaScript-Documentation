@@ -1,5 +1,5 @@
 # JavaScript   Notes
-![alt text](29.jpg)
+![29](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/147d20f3-6af5-4edd-b238-357fdf95dd5b)
 
                                                                  Prem kumar
                                                                  31/05/2024
@@ -58,10 +58,10 @@
 
 
 
-   ![alt text](1.jpg)
+  ![1](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/50dff81d-7031-4764-ae73-cf8b09530332)
 
 - Step 6:- Create a new file.
-![alt text](30.jpg)
+![30](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/578c03b6-b793-4d49-bf6d-34903a062d87)
 <br>
 
 # 3.  Our 1st JS Code
@@ -73,13 +73,13 @@
 - Console.log(‘Hello’);
 - ➡️  Go to Google and inspect the console and run the program.
 
-![alt text](2.jpg)
+![2](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/d45fc2e8-9565-46a1-82e6-607c2b82d0b8)
 
 -  ➡️  Go to Google and inspect the console and run the program.
 
 -   ➡️    VS code program run.
   
- ![alt text](3.jpg) 
+ ![3](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1a7bab0c-dda9-42c2-923f-8fa879f2339c) 
 
 -  To run JavaScript programs on the browser.
 -  You will have to create a HTML file.
@@ -97,19 +97,19 @@
                   HTML <--> BROWSER  <--> JavaScript
                        <-----------------> 
                        
-![alt text](4.jpg)                                  
+![4](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/69184b25-b447-44ab-9e97-ba338511bf34)                                 
 
 ##  HTML to JavaScript connected.
      </ Body>
        <script src=”index.js”></script>
 
 ### HTML Code:-
-![alt text](5.jpg) 
+![5](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/c0385857-3afa-437f-85c2-6f2b3b8acf24)
 
 ### JS Code:-
-![alt text](6.jpg) 
+![6](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fcfec36d-45ab-480f-ba47-11c06d1ba61e)
 ### Output:-
-![alt text](7.jpg) 
+![7](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/566386d8-10ae-4d0c-8f2f-86e9cda2d2fc)
 # 4. Variables In Js
 - Variables are containers for data.
 # 5.Variable Rules
@@ -131,7 +131,7 @@
 
 <br>
 
-![alt text](8.jpg)
+![8](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/a74490eb-2660-4a0a-924b-0fd9641e383d)
 
 
 # 9.Operators in JS
@@ -144,9 +144,9 @@
 -  Increment (*)
 -  Decrement (/)
   ## program:-
-  ![alt text](10.jpg)
+![10](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/803639ac-41dc-4bb6-96a1-9de13ebf0044)
   ## output:-
-  ![alt text](9.jpg)
+ ![9](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/34f0c66a-a96c-472f-8bb7-2d8242756492)
 
   # LOOP IN JS
  
@@ -164,9 +164,9 @@
             console.log("apna college");
             } 
 ## Program              
- ![alt text](12.jpg)
+ ![12](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/97c697ed-d168-4663-8d10-ba5bc90f4d42)
  ## output
- ![alt text](11.jpg)
+![11](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6a8f88ae-a996-459a-a58b-8595ae0e3869)
 
  ## Infinite Loop:- 
 -  A Loop that never ends.
@@ -176,34 +176,34 @@
                 // do some work
                      }
 ## Program              
-![alt text](13.jpg)
+![13](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/cf7a5c68-1f88-42ad-a45f-557154fc17c8)
  ## output
-![alt text](14.jpg)                  
+![14](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f0e1b6d5-a8e8-40ad-9ec0-f69140192bfe)                 
 
 ## do-while Loop
          do{
           //do some work
          }while(condition);
 ## Program              
-![alt text](15.jpg)
+![15](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f2a813e9-dbdd-4a61-916d-11d2f5372fcd)
  ## output
-![alt text](16.jpg)            
+![16](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6670e121-4910-4e43-b9fa-5f793eab2ecc)          
 ## for-of Loop
            for (let key in objVar) {
            //do some work
              }
 ## Program              
-![alt text](17.jpg)
+![17](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/558963b0-7441-4b73-a222-4613c43efbe4)
  ## output
-![alt text](18.jpg) 
+![18](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/b0ef67eb-741d-4dfe-af57-72f43b3028de) 
 ## for-in Loop
               for (let key in objVar) {
                 //do some work
                  }         
 ## Program              
-![alt text](19.jpg)
+![19](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/95ce9af5-cb96-4bc1-b7bd-8c44af072d73)
  ## output
-![alt text](20.jpg) 
+![20](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/0d813ef3-3b5e-4b95-9687-280c269c419f)
 #  11. Strings in JS 
 - String is a sequence of characters used to repreesent text.            
 ### Create String
@@ -214,9 +214,9 @@
               str[0], str[1], str[2] 
 
 ## Program              
-![alt text](21.jpg)
+![21](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/59cf1cb5-635c-4b46-9249-727c89173f95)
  ## output
-![alt text](22.jpg)   
+![22](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6f936345-68f1-41e3-98d7-9b5b90cb69dd)  
  #  12. String Methods in JS   
  - These are built-in functions to manipulate a string.  
  - str.toUpperCase( )
@@ -227,9 +227,9 @@
 - str.replace( searchVal,newval)
 - str.charAt( idx ) 
 ## Program              
-![alt text](23.jpg)
+![23](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fbf43c66-cd78-4e02-b264-d7b76cadffa3)
  ## output
-![alt text](24.jpg)  
+![24](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/c2edbfd4-5832-45e4-8987-bc007bd8125b)  
 #  13. Array  
 - Collections of items.
 ### Create Array
@@ -239,9 +239,9 @@
 ### Array Indices
 - arr[0], arr[1], arr[2] ....
 ## Program              
-![alt text](25.jpg)
+![25](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/a14860a8-5129-409d-9dd8-df0ffd4895fd)
  ## output
-![alt text](26.jpg) 
+![26](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/31a2d933-d9fa-47fb-87eb-25d4ef138bb4)
 ### Array Methods
                   Push( ) : add to end
                   Pop( ) : delete from end & return
@@ -305,7 +305,7 @@ that single value.
 # 15. DOM
 ## What is DOM?
 - When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
-![alt text](27.jpg) 
+![27](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1394c0a1-4745-4060-b441-f9dd7a1e71ef)
 ## Selecting with id
 - document.getElementById(“myld")
 ## Selecting with class
