@@ -59,7 +59,7 @@
 
 - Step 6:- Create a new file.
 
-- 
+ 
 ![30](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/578c03b6-b793-4d49-bf6d-34903a062d87)
 <br>
 
