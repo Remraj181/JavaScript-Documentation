@@ -1,4 +1,4 @@
-# JavaScript   Notes
+
 ![29](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/147d20f3-6af5-4edd-b238-357fdf95dd5b)
 
                                                                  Prem kumar
