@@ -37,7 +37,8 @@
 - Step 2:- click on the first link.
   
   - VsCode Download :-
-  ![alt text](vs.jpg)
+  ![vs](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/98d9c8d4-e78f-4256-9e9d-2e471527787d)
+
 
 
 - Step 3:- After completion VS Code, Check your download Folder.
