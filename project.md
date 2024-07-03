@@ -18,11 +18,8 @@
 9.  Operators in JS
 10. Loops
 11. Strings in JS 
-12. String Methods in JS
-13. ARRAYS
-14. Functions
-15. Dom
-16. Events
+12. ARRAYS
+13. Functions
 
 # 1.  What Is javascript
 >JS is a programming language. We use it to give instructions to the computer.
@@ -154,9 +151,7 @@
 
   1. for Loop 
   2. while Loops
-  3. do-while loop
-  4. for-of Loop
-  5. for-in   
+  3. do-while loop  
 
 ## for Loop
             for (let i = 1; i <= 5; i++) {
@@ -166,9 +161,6 @@
  ![12](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/97c697ed-d168-4663-8d10-ba5bc90f4d42)
  ## output
 ![11](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6a8f88ae-a996-459a-a58b-8595ae0e3869)
-
- ## Infinite Loop:- 
--  A Loop that never ends.
   
   ## while Loop:-
                 while (condition) {
@@ -187,22 +179,8 @@
 ![15](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f2a813e9-dbdd-4a61-916d-11d2f5372fcd)
  ## output
 ![16](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6670e121-4910-4e43-b9fa-5f793eab2ecc)          
-## for-of Loop
-           for (let key in objVar) {
-           //do some work
-             }
-## Program              
-![17](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/558963b0-7441-4b73-a222-4613c43efbe4)
- ## output
-![18](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/b0ef67eb-741d-4dfe-af57-72f43b3028de) 
-## for-in Loop
-              for (let key in objVar) {
-                //do some work
-                 }         
-## Program              
-![19](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/95ce9af5-cb96-4bc1-b7bd-8c44af072d73)
- ## output
-![20](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/0d813ef3-3b5e-4b95-9687-280c269c419f)
+
+            
 #  11. Strings in JS 
 - String is a sequence of characters used to repreesent text.            
 ### Create String
@@ -220,11 +198,7 @@
  - These are built-in functions to manipulate a string.  
  - str.toUpperCase( )
 - str.toLowerCase( ) 
-- str.trim( )    // removes whitespaces 
-- str.slice(start, end?) // returns part of string
-- str1.concat( str2 ) //joins str2 with str1
-- str.replace( searchVal,newval)
-- str.charAt( idx ) 
+ 
 ## Program              
 ![23](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fbf43c66-cd78-4e02-b264-d7b76cadffa3)
  ## output
@@ -244,93 +218,13 @@
 ### Array Methods
                   Push( ) : add to end
                   Pop( ) : delete from end & return
-                  toString( ) : converts array to string
-                  Concat( ) : joins multiple arrays & returns result
-                  Unshift( ) : add to start
-                  shift( ) : delete from start & return
-                  Slice( ) : returns a piece of the array
-                  Splice( ) : change original array(add,remove,replace)
-
+                 
 # 14. Functions 
 - Block of code that performs a specific task, can be invoked whenever needed               
 ### Function Definition
                      function functionName( ) {
                       //do some work
                      }
-
-### Function Call
-                  functionName( );
-
--  Compact way of writing a function.
-
-                       const sum =(a,b)=>{
-                        return a+b;
-                       }
-### forEach Loop in Arrays
--  arr.forEach( callBackFunction )    
--  CallbackFunction : Here, it is a function to execute for each element in the array.
-- *A callback is a function passed as an argument to another function.
-
-                            arr.forEach( ( val ) => {
-                             console.log(val);
-                              })                        
-
-
-###  Map   
-- Creates a new array with the results of some operation. The value its callback returns are
-used to form new array.
-- arr.map( callbackFnx( value, index, array))
-               
-                                   let newArr = arr.map( ( val ) => {
-                                  return val * 2;
-                                   })
-                                
-###  Filter 
-- Creates a new array of elements that give true for a condition/filter.
-Eg: all even elements.
-
-                             let newArr = arr.filter( ( ( val )) => {
-                              return val % 2 === 0;
-                               })  
-
-
-
-
-
-###  Reduce  
-- Performs some operations & reduces the array to a single value. It returns
-that single value.
-
-# 15. DOM
-## What is DOM?
-- When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
-![27](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1394c0a1-4745-4060-b441-f9dd7a1e71ef)
-## Selecting with id
-- document.getElementById(“myld")
-## Selecting with class
-- document.getElementsByClass Name("myclass)
-## Selecting with tag
-- document.getElementsByTagName(“p”)
-## Properties
--  tagName : returns tag for element nodes
-- innerText : returns the text content of the element and all its children
-- innerHTML : returns the plain text or HTML contents in the element  
-- textContent : returns textual content even for hidden elements.  
-# 16. Event
-- The change in the state of an object is known as an Event.
-- Events are fired to notify code of "interesting changes" that may affect code execution.
-- Mouse events (click, double click etc.)
-- Keyboard events (keypress, keyup, keydown)
-- Form events (submit etc.)
-- Print event & many more
-
-                           node.event = ( ) => {
-                           //handle here
-                            }
-                            example
-                                btn.onclick = ( ) => {
-                             console.log(“btn was clicked”);
-                                  }
 
 # Conclusion  
 - JavaScript has solidified its position as a fundamental technology in modern web development. Its ability to create dynamic and interactive user experiences has transformed the web from static pages to vibrant, responsive applications. The language's versatility, from client-side scripting to server-side applications using Node.js, underscores its importance in the tech ecosystem.
