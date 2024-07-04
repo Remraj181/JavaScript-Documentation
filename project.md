@@ -7,7 +7,7 @@
 
 # Table of contents
 
-1. [What Is javascript](#What Is javascript)
+1. What Is javascript
 2. Setting Up VsCode
 3. Our 1st JS Code
 4. Variables In Js
@@ -21,7 +21,7 @@
 12. ARRAYS
 13. Functions
 
-#   What Is javascript
+#  1. What Is javascript
 >JS is a programming language. We use it to give instructions to the computer.
 
               Input (code)  ➡ Computer  ➡ Output
