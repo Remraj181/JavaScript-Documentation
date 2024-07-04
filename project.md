@@ -7,12 +7,12 @@
 
 # Table of contents
 
-1.  What Is javascript
+1. [What Is javascript](#What Is javascript)
 2. Setting Up VsCode
 3. Our 1st JS Code
 4. Variables In Js
 5. Variable Rules
-6.  let, const & var
+6.  let & const 
 7.  Data Types in Js
 8.  Comments in JS
 9.  Operators in JS
@@ -112,13 +112,11 @@
 - Variable names are case sensitive; “a” & “A” is different.
 - Only letters, digits, underscore( _ ) and $ is allowed. (not even space)
 - Only a letter, underscore( _ )or $ should be 1st character.
-- Reserved words cannot be variable names.
-# 6. let, const & var
-- **var** :- Variable can be re-declared & updated. A global scope variable.
-- **let** :- Variable cannot be re-declared but can be updated. A block scope variable.
-- **const** : Variable cannot be re-declared or updated. A block scope variable.
+# 6. let & const 
+- **let** :- Variable cannot be re-declared but can be updated. 
+- **const** : Variable cannot be re-declared or updated.
 # 7.Data Types in JS 
-- **Primitive Types** : Number, String, Boolean, Undefined, Null, BigInt, Symbol
+- **Primitive Types** : Number, String, Boolean
   
 # 8. Comments in JS
 ` //This is a single line comment`
