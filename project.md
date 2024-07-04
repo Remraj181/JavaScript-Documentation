@@ -7,7 +7,7 @@
 
 # Table of contents
 
-1. [What Is javascript](#What Is javascript)
+1. [What Is javascript](# What Is javascript)
 2. Setting Up VsCode
 3. Our 1st JS Code
 4. Variables In Js
