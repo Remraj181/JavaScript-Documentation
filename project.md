@@ -43,7 +43,7 @@
 - Step 5:- Check if the system up-to-date using following command :
 
     
-                $ sudo apt-get update
+                $ sudo apt update
 - Step 6. After update system Now you can Install VS Code using the following command:
 
   
