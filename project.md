@@ -100,7 +100,8 @@
        <script src=”index.js”></script>
 
 ### HTML Code:-
-![5](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/c0385857-3afa-437f-85c2-6f2b3b8acf24)
+![5](!https://github.com/user-attachments/assets/8f4aaa8c-c92f-4882-970d-a1741a39602e)
+
 
 ### JS Code:-
 ![6](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fcfec36d-45ab-480f-ba47-11c06d1ba61e)
