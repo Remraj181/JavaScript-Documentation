@@ -31,24 +31,22 @@
 
 # 2.  Setting Up VsCode
 - Step 1:- Search on Google or Chrome Download VsCode.
-- Step 2:- click on the first link.
-  
+- Step 2:- https://code.visualstudio.com/download  follow this link & install vs package
   - VsCode Download :-
   ![vs](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/98d9c8d4-e78f-4256-9e9d-2e471527787d)
 
 
 
 - Step 3:- After completion VS Code, Check your download Folder.
-- Step 4:- Open Terminal in Linux or  for shortcut click (ctrl + alt + t)
+- Step 4:- Open Terminal in Linux or  for shortcut click (ctrl + alt + t) (Ubuntu).
 - Step 5:- Check if the system up-to-date using following command :
 
     
-                $ sudo apt update
+                sudo apt update
 - Step 6. After update system Now you can Install VS Code using the following command:
 
   
-           $ sudo apt install vscode .
-
+           sudo dpkg -i location of package. Find location from ls command. after this VsCode installed successfully.
 - Step 6. Open VS Code.          
 
 
@@ -64,7 +62,7 @@
 
 
  > `Console.log is used to log (print) a message to the console.`
-- Frist progarm in VS Code type in                                           
+- First progarm in VS Code type in                                           
 - Console.log(“Hello”);
 - Console.log(‘Hello’);
 - ➡️  Go to Google and inspect the console and run the program.
@@ -106,16 +104,48 @@
 ### Output:-
 ![7](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/566386d8-10ae-4d0c-8f2f-86e9cda2d2fc)
 # 4. Variables In Js
-- Variables are containers for data.
+- Variables are containers for storing data.
 # 5.Variable Rules
 - Variable names are case sensitive; “a” & “A” is different.
 - Only letters, digits, underscore( _ ) and $ is allowed. (not even space)
 - Only a letter, underscore( _ )or $ should be 1st character.
 # 6. let & const 
-- **let** :- Variable cannot be re-declared but can be updated. 
+- **let** :- Variable cannot be re-declared but can be updated.
+-            Example :-
+             let name = "John";
+             console.log(name); // Output: John
+  
 - **const** : Variable cannot be re-declared or updated.
+-              const pi = 3.14;
+               console.log(pi); // Output: 3.14
 # 7.Data Types in JS 
-- **Primitive Types** : Number, String, Boolean
+- **Primitive datatype** : Number, String, Boolean
+-              Number:-
+               The Number type represents both integer and floating-point numbers.
+                Example:-
+                let age = 25; // Integer
+                let temperature = 98.6; // Floating-point
+                 console.log(age); // Output: 25
+                 console.log(temperature); // Output: 98.6
+           
+                   String:-
+                    The String type represents a sequence of characters.
+                    Example:-
+                    let greeting = "Hello, world!";
+                    let name = 'John Doe';
+                    console.log(greeting); // Output: Hello, world!
+                    console.log(name); // Output: John Doe
+           
+                    Boolean:-
+                     The Boolean type represents a logical entity and can have two values: true and false.
+                      Example:-
+                      let isActive = true;
+                      let isAdmin = false;
+                      console.log(isActive); // Output: true
+                       console.log(isAdmin); // Output: false
+
+  
+
   
 # 8. Comments in JS
 ` //This is a single line comment`
@@ -213,8 +243,26 @@
  ## output
 ![26](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/31a2d933-d9fa-47fb-87eb-25d4ef138bb4)
 ### Array Methods
-                  Push( ) : add to end
-                  Pop( ) : delete from end & return
+                 1) Push( ) : add to end
+
+                  Example:-
+                  let A = ['apple', 'banana'];
+                   A.push('orange');
+                   console.log(A); // ['apple', 'banana', 'orange']
+
+                  
+                 2) Pop( ) : delete from end & return
+                    
+                    Example:-
+                   let A = ['apple', 'banana', 'orange'];
+                    let last = A.pop();
+                     console.log(A); // ['apple', 'banana']
+                      console.log(last); // 'orange'
+
+
+
+
+                  
                  
 # 14. Functions 
 - Block of code that performs a specific task, can be invoked whenever needed               
