@@ -100,8 +100,17 @@
        <script src=”index.js”></script>
 
 ### HTML Code:-
-![5](!https://github.com/JavaScript-Documentation/assets/8f4aaa8c-c92f-4882-970d-a1741a39602e)
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="index.js"></script>
+</body>
+</html>
 
 ### JS Code:-
 ![6](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fcfec36d-45ab-480f-ba47-11c06d1ba61e)
