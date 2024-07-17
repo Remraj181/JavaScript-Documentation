@@ -100,7 +100,7 @@
        <script src=”index.js”></script>
 
 ### HTML Code:-
-![5](!https://github.com/user-attachments/assets/8f4aaa8c-c92f-4882-970d-a1741a39602e)
+![5](!https://github.com/JavaScript-Documentation/assets/8f4aaa8c-c92f-4882-970d-a1741a39602e)
 
 
 ### JS Code:-
