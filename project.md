@@ -239,13 +239,7 @@
 
 ## Program              
 ![25](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/a14860a8-5129-409d-9dd8-df0ffd4895fd)
- ## output
-![26](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/31a2d933-d9fa-47fb-87eb-25d4ef138bb4)
 
-
-
-                  
-                 
 # 14. Functions 
 - Block of code that performs a specific task, can be invoked whenever needed               
 ### Function Definition
