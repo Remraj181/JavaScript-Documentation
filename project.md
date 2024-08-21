@@ -236,29 +236,11 @@
 - let heroes = [ “ironman”, “hulk”, “thor”, “batman” ];
 - let marks = [ 96, 75, 48, 83, 66 ];
 - let info = [ “rahul”, 86, “Delhi” ];
-### Array Indices
-- arr[0], arr[1], arr[2] ....
+
 ## Program              
 ![25](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/a14860a8-5129-409d-9dd8-df0ffd4895fd)
  ## output
 ![26](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/31a2d933-d9fa-47fb-87eb-25d4ef138bb4)
-### Array Methods
-                 1) Push( ) : add to end
-
-                  Example:-
-                  let A = ['apple', 'banana'];
-                   A.push('orange');
-                   console.log(A); // ['apple', 'banana', 'orange']
-
-                  
-                 2) Pop( ) : delete from end & return
-                    
-                    Example:-
-                   let A = ['apple', 'banana', 'orange'];
-                    let last = A.pop();
-                     console.log(A); // ['apple', 'banana']
-                      console.log(last); // 'orange'
-
 
 
 
